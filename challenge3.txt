@@ -1,1 +1,4 @@
 this is the text of challege3.txt
+git remote add origin https://github.com/SerdarOrazmyradov/RepositoryName1.git
+git branch -M main
+git push -u origin main
